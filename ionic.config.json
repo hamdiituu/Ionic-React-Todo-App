@@ -1,0 +1,7 @@
+{
+  "name": "json-placeholder-todo-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
